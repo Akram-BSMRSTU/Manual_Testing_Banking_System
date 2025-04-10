@@ -33,7 +33,7 @@ withdrawal, transfer, and more. It also includes features like dark mode and tra
 - Covered positive and negative test cases for comprehensive coverage.
 ###  Test Plan Creation
 #### Developed a structured test plan:
-- Testing Objectives: Ensure the reliability, security, and usability of Bnking System Application.
+- Testing Objectives: Ensure the reliability, security, and usability of Banking System Application.
 - Scope: Web and mobile platforms.
 - Features to be Tested:
   - Deposit
@@ -87,10 +87,10 @@ withdrawal, transfer, and more. It also includes features like dark mode and tra
 
 - Verified cross-browser and cross-device compatibility to maintain consistent platform performance.
 ##  🧠🗺️Mind Map
-      ![Mindmap](https://github.com/user-attachments/assets/47d90a69-48f3-4989-ba7f-8bccc5c691a5)
+![Bank System](https://github.com/user-attachments/assets/ccc719ff-3c98-4e1d-8c41-d473a928b766)
 ##  Test Report Summary
-      ![Image](https://github.com/user-attachments/assets/431b361f-8257-47dd-bf60-aa57cdb51d9b)
-      ![Image](https://github.com/user-attachments/assets/891ba20f-e75d-47c3-ae96-021cecdb2deb)
+![executeTest](https://github.com/user-attachments/assets/431b361f-8257-47dd-bf60-aa57cdb51d9b)
+![Test Report](https://github.com/user-attachments/assets/891ba20f-e75d-47c3-ae96-021cecdb2deb)
 
 
 
