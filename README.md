@@ -76,6 +76,8 @@ withdrawal, transfer, and more. It also includes features like dark mode and tra
 - Priority: Assigned according to the defect's effect on the user experience.
 
 - Steps to Reproduce: Included clear and detailed reproduction steps to facilitate quick debugging and resolution.
+  
+![Image](https://github.com/user-attachments/assets/a18e6238-c076-40b8-949e-9b0e14e70c71)
 ##   🛠️ Tools Used
 - Test Management Tool: Excel Sheets / Google Sheets
 
