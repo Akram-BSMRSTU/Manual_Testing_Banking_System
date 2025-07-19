@@ -69,15 +69,7 @@ withdrawal, transfer, and more. It also includes features like dark mode and tra
 - Boundary Value Testing: Ensured system stability with minimum and maximum input values.
 
 - Negative Testing: Checked system behavior with invalid credentials, unsupported payment methods, and during high-traffic conditions.
-##     🐞 Bug Reports
-### Documented identified defects with:
-- Severity: Classified as Critical, High, Medium, or Low based on the defect's impact.
 
-- Priority: Assigned according to the defect's effect on the user experience.
-
-- Steps to Reproduce: Included clear and detailed reproduction steps to facilitate quick debugging and resolution.
-  
-![Image](https://github.com/user-attachments/assets/a18e6238-c076-40b8-949e-9b0e14e70c71)
 ##   🛠️ Tools Used
 - Test Management Tool: Excel Sheets / Google Sheets
 
@@ -93,6 +85,15 @@ withdrawal, transfer, and more. It also includes features like dark mode and tra
 ##  Test Report Summary
 ![executeTest](https://github.com/user-attachments/assets/431b361f-8257-47dd-bf60-aa57cdb51d9b)
 ![Test Report](https://github.com/user-attachments/assets/891ba20f-e75d-47c3-ae96-021cecdb2deb)
+##     🐞 Bug Reports
+### Documented identified defects with:
+- Severity: Classified as Critical, High, Medium, or Low based on the defect's impact.
+
+- Priority: Assigned according to the defect's effect on the user experience.
+
+- Steps to Reproduce: Included clear and detailed reproduction steps to facilitate quick debugging and resolution.
+  
+![Image](https://github.com/user-attachments/assets/a18e6238-c076-40b8-949e-9b0e14e70c71)
 
 
 
